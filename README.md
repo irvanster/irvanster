@@ -10,7 +10,7 @@ Senior Frontend Developer<br>
 
 |Date| Position/Company |
 |-------|--|
-|May 2023 - June 2023| Senior Frontend Developer <br> Kelas Pintar  |
+|Apr 2023 - June 2023| Senior Frontend Developer <br> Kelas Pintar  |
 |May 2022 - Sep 2022| Mobile Developer (Part-time)<br> Bengkel Mania <br><br>• Developed mobile applications using React Native.  |
 |Apr 2021 - Feb 2022| Frontend Engineer (Freelance/Seasonal) <br> Telkom Indonesia<br><br>• Developed Workforce Planning Tools for Telkom (Telkom x Bagidata)<br>• Developed Digiexpert (Telkom x Fazztech)  |
 |Dec 2020 - May 2023| Software Engineer Mentor <br> Fazztrack<br><br>• teach software engineering from beginner to expert level at Fazztrack.<br>• Front-end using React/Native JS, Next JS, Redux, and back-end using Express JS with Posgresql, Mysql databases.<br>• Covered topics like TDD (Test-Driven Development), unit testing, design patterns, architecture, and implementation in production environments such as AWS, Ngnix, and more (DevOps).<br>• Conducted interviews for talents joining bootcamps/training programs |
