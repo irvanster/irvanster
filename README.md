@@ -41,7 +41,7 @@ Senior Frontend Developer<br>
 |Sep 2022 - Oct 2022| [DUEL: Two Player Tap Game](https://www.google.com/url?q=https://play.google.com/store/apps/details?id=com.vanella.dueltap&sa=D&source=editors&ust=1687319584424135&usg=AOvVaw0kyiAzbxrSE6RJLXB5tyh-) <br> Owner & Fullstack Dev<br><br>A thrilling 2-player game that tests tapping speed. Built using React Native.|
 |Sep 2022 - Oct 2022| [WhatsFazz - WA Tanpa Simpan](https://www.google.com/url?q=https://play.google.com/store/apps/details?id=com.vanella.whatsfazz&sa=D&source=editors&ust=1687319584424542&usg=AOvVaw22JmV2CIEOvjVbzGsBHimx) <br> Owner & Fullstack Dev<br><br>An application that allows sending WhatsApp (WA) messages without saving contact numbers first. Built using React Native.|
 |Apr 2022 - Jun 2022| [Digiexpert](https://www.google.com/url?q=https://digiexpert.id/&sa=D&source=editors&ust=1687319584424724&usg=AOvVaw3oiGyG4S_OgNXjxaPNmPDi) <br> Frontend Developer<br><br>Developed a new feature called "Mentoring & Coaching" where users can become coaches, set mentoring schedules, manage bookings, review coaches, and use messaging. Built using Vue (Nuxt JS) and Tailwind CSS.|
-|Mar 2022 - May 2022| [Twibbonesia](https://www.google.com/url?q=https://www.twibbonesia.id/&sa=D&source=editors&ust=1687319584424972&usg=AOvVaw19KfAbu4WzsRObqWIuth-y) <br> Fullstack Developer<br><br>Twibbonesia is a campaign sharing platform (twibbon) built using React JS (Next JS), Tailwind, Express JS, and PostgreSQL.|
+|Mar 2022 - May 2022| [Twibbonesia](https://www.google.com/url?q=https://www.twibbonesia.com/&sa=D&source=editors&ust=1687319584424972&usg=AOvVaw19KfAbu4WzsRObqWIuth-y) <br> Fullstack Developer<br><br>Twibbonesia is a campaign sharing platform (twibbon) built using React JS (Next JS), Tailwind, Express JS, and PostgreSQL.|
 |Apr 2021 - Feb 2022| Workforce Planning Tools Telkom <br> Frontend Engineer<br><br>Used by Internal Telkom and Telkom Regional offices, built using React JS & Redux.|
 |Feb 2021 - Apr 2021| [SIAPPEM - Sistem Pemilihan Administrasi Pemalang](https://www.google.com/url?q=https://play.google.com/store/apps/details?id=com.cid.dpbkpupemalang&sa=D&source=editors&ust=1687319584425344&usg=AOvVaw2lQjTnxYqfcRcdFKo0jemU) <br> PM & Mobile UI/UX<br><br>• Managed a team of 1 front-end developer and 1 back-end developer. <br/> • Conducted demonstrations/presentations to clients.<br> • Designed server requirements, budgeting, and delivery of the application to the client.|
 |Apr 2020 - Apr 2020| [JDIH KPU Pemalang](https://www.google.com/url?q=https://play.google.com/store/apps/details?id=com.artanuvanella.jdihkpupemalang&sa=D&source=editors&ust=1687319584425737&usg=AOvVaw1b6l8Yp-MZD4IvPbLBLdXU) <br> Mobile Developer<br><br>Legal documentation for KPU Pemalang, built using React Native.|
@@ -49,7 +49,7 @@ Senior Frontend Developer<br>
 ## Organization
 |Date| Position/Organization |
 |--|--|
-|Apr 2020 - Apr 2020| Petanesia <br> IT Division Central Committee<br><br>Served as the IT Division Central Committee in Petanesia (Pencinta Tanah Air Indonesia), a national organization. Contributed to IT development and products such as: - Petanesianews (petanesianews.com) - Twibbonesia (twibbonesia.id)|
+|Apr 2020 - Apr 2020| Petanesia <br> IT Division Central Committee<br><br>Served as the IT Division Central Committee in Petanesia (Pencinta Tanah Air Indonesia), a national organization. Contributed to IT development and products such as: - Petanesianews (petanesianews.com) - Twibbonesia (twibbonesia.com)|
 
 ## CERTIFICATIONS AND LICENSES
 |Date| Position/Organization |
