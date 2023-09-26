@@ -5,6 +5,9 @@ Senior Frontend Developer<br>
 +62 822-4909-8340 • tovamaulana098@gmail.com
 
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/6282249098340) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/irvanster/)
+<br>
+![Tofa Maulana Irvan / Tova Maulana Irvan](https://github-readme-stats.vercel.app/api/top-langs/?username=irvanster&theme=react&show_icons=true&hide_border=true&layout=compact)
+![irvanster Stats](https://github-readme-stats.vercel.app/api?username=irvanster&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile&include_all_commits=true&custom_title=🔥👨‍💻Irvanster&hide_rank=true)
 
 # Work Experience
 
