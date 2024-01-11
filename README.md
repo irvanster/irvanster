@@ -1,8 +1,5 @@
 # Hi! I'm Irvan 👋!
-🇮🇩X🇵🇸<br>
-[![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
-[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://donasi.baznas.go.id/bantumuslimdipalestina)<br><br>
-[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://kitabisa.com/campaign/baznasuntukpalestina)<br>
+
 Tova Maulana Irvan<br>
 Senior Frontend Developer<br>
 +62 822-4909-8340 • tovamaulana098@gmail.com
