@@ -13,6 +13,7 @@ Senior Frontend Developer<br>
 
 |Date| Position/Company |
 |-------|--|
+|Aug 2023 - Jan 2024| Sole Proprietorship <br> Geniee Docs (genieedocs.com) - PT. Publika Investa Karya  |
 |Apr 2023 - June 2023| Senior Frontend Developer <br> Kelas Pintar  |
 |May 2022 - Sep 2022| Mobile Developer (Part-time)<br> Bengkel Mania <br><br>• Developed mobile applications using React Native.  |
 |Apr 2021 - Feb 2022| Frontend Engineer (Freelance/Seasonal) <br> Telkom Indonesia<br><br>• Developed Workforce Planning Tools for Telkom (Telkom x Bagidata)<br>• Developed Digiexpert (Telkom x Fazztech)  |
