@@ -2,7 +2,7 @@
 
 Tova Maulana Irvan<br>
 Frontend Developer<br>
-+62 822-4909-8340 • tovamaulana098@gmail.com
++62 822-4909-8340 • tovamirvan@gmail.com
 
 ### PortFolios
 https://irvanster.notion.site/bed4139eccb54b658cec4e820b136cba
